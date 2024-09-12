@@ -1,0 +1,3 @@
+## This is to create gitignore file as well as git readme file.
+## The progress is doing well so for.
+## Keep pushing ......
